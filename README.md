@@ -47,7 +47,8 @@ A **two-wheeled self-balancing robot** that uses **sensor fusion** and **PID con
 - Used an **MPU-9250 IMU** (gyro + accelerometer + magnetometer) for orientation tracking.  
 - Wrote **custom Arduino drivers** for gyroscope data handling.  
 - Controlled DC motors with an **H-Bridge motor driver**.  
-- Powered by an **Arduino Uno**, achieving smooth recovery from disturbances.  
+- Powered by an **Arduino Uno**, achieving smooth recovery from disturbances.
+- Designed a custom light-weight frame to house the electrics using **Autodesk Inventor**
 
 🛠 **Tech Stack:** `Arduino Uno`, `MPU-9250 IMU`, `H-Bridge`, `DC Motors`, `PID Control`  
 
