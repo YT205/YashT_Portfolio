@@ -8,7 +8,7 @@ Welcome to my project portfolio! Below is a showcase of engineering and software
 **Description:**  
 A **2D platformer game** implemented entirely in hardware on the **Xilinx Urbana board**. Designed custom game logic, rendering, and input handling directly in Verilog.  
 
-✨ **Key Features:**  
+**Key Features:**  
 - Built **multiple levels** with progression system.  
 - Implemented game mechanics: **jumping, collisions, hazards, and victory detection**.  
 - **Lava blocks** reset the player’s position; reaching the **green flag** advances to the next level.  
@@ -25,7 +25,7 @@ A **2D platformer game** implemented entirely in hardware on the **Xilinx Urbana
 **Description:**  
 A **social networking app** for tennis players to connect, find courts, and schedule matches.  
 
-✨ **Key Features:**  
+**Key Features:**  
 - **Court Finder:** Integrated **Google Maps API** to filter and display local courts.  
 - **Player Matching:** Find players by **skill level** and **location**.  
 - **Forum:** Dedicated hub for **tennis advice and discussion**.  
@@ -42,7 +42,7 @@ A **social networking app** for tennis players to connect, find courts, and sche
 **Description:**  
 A **two-wheeled self-balancing robot** that uses **sensor fusion** and **PID control** to stay upright.  
 
-✨ **Key Features:**  
+**Key Features:**  
 - Implemented a **PID control algorithm** for real-time balance.  
 - Used an **MPU-9250 IMU** (gyro + accelerometer + magnetometer) for orientation tracking.  
 - Wrote **custom Arduino drivers** for gyroscope data handling.  
@@ -59,7 +59,7 @@ A **two-wheeled self-balancing robot** that uses **sensor fusion** and **PID con
 **Description:**  
 A **wireless smart home device** for controlling window blinds with **Alexa integration**.  
 
-✨ **Key Features:**  
+**Key Features:**  
 - **ESP32 microcontroller** controls a stepper motor via **A4988 driver**.  
 - Connected to **Sinric Pro platform** via Wi-Fi for cloud control.  
 - **Alexa voice assistant integration** for hands-free operation.  
@@ -75,7 +75,7 @@ A **wireless smart home device** for controlling window blinds with **Alexa inte
 **Description:**  
 A **real-time telemetry system** for monitoring battery voltage on a robotics competition robot.  
 
-✨ **Key Features:**  
+**Key Features:**  
 - Measured voltage down to **0.01V precision** with a **16-bit ADC**.  
 - Data acquisition & processing handled by **Arduino Nano**.  
 - Wireless transmission to smartphone using **HC-05 Bluetooth module**.  
@@ -92,7 +92,7 @@ A **real-time telemetry system** for monitoring battery voltage on a robotics co
 **Description:**  
 Captain of a robotics team that built an **85 lb vertical spinner combat robot**.  
 
-✨ **Key Features:**  
+**Key Features:**  
 - Designed and assembled the **electronics system**: motors, ESCs, battery management, and receiver module.  
 - Collaborated with mechanical subteam to integrate drivetrain & weapon systems.  
 - Competed against **30+ teams** and secured 🥇 **1st place at district competition**.  
