@@ -17,7 +17,6 @@ A **2D platformer game** implemented entirely in hardware on the **Xilinx Urbana
 
 🛠 **Tech Stack:** `Verilog`, `Xilinx Urbana FPGA`, `HDMI/VGA Output`  
 
-📸 *[Insert screenshot/video of gameplay here]*  
 
 ---
 
@@ -34,7 +33,6 @@ A **social networking app** for tennis players to connect, find courts, and sche
 
 🛠 **Tech Stack:** `Java`, `Android Studio`, `Firebase`, `Google Maps API`  
 
-📸 *[Insert screenshots of the app’s UI]*  
 
 ---
 
@@ -52,7 +50,6 @@ A **two-wheeled self-balancing robot** that uses **sensor fusion** and **PID con
 
 🛠 **Tech Stack:** `Arduino Uno`, `MPU-9250 IMU`, `H-Bridge`, `DC Motors`, `PID Control`  
 
-📸 *[Insert robot photo/video]*  
 
 ---
 
@@ -68,7 +65,6 @@ A **wireless smart home device** for controlling window blinds with **Alexa inte
 
 🛠 **Tech Stack:** `ESP32`, `A4988 Driver`, `DHT22`, `Arduino IDE`, `Sinric Pro`, `Alexa Integration`  
 
-📸 *[Insert device image/video demo]*  
 
 ---
 
@@ -85,7 +81,6 @@ A **real-time telemetry system** for monitoring battery voltage on a robotics co
 
 🛠 **Tech Stack:** `Arduino Nano`, `HC-05 Bluetooth`, `EagleCAD`, `16-bit ADC`, `PCB Design`  
 
-📸 *[Insert PCB/system demo photo]*  
 
 ---
 
@@ -100,7 +95,6 @@ Captain of a robotics team that built an **85 lb vertical spinner combat robot**
 
 🛠 **Tech Stack:** `High-Power DC Motors`, `ESCs`, `LiPo Batteries`, `Receiver Modules`  
 
-📸 *[Insert robot competition photo/video]*  
 
 
 
