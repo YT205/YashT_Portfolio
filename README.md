@@ -67,6 +67,7 @@ A **wireless smart home device** for controlling window blinds with **Alexa inte
 
 🛠 **Tech Stack:** `ESP32`, `A4988 Driver`, `DHT22`, `Arduino IDE`, `Sinric Pro`, `Alexa Integration`  
 
+Click to watch a [demo](https://youtu.be/SyJ3WhEeh3o)
 
 ---
 
