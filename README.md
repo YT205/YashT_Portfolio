@@ -2,6 +2,36 @@
 
 Welcome to my project portfolio! Below is a showcase of engineering and software projects I’ve built, ranging from **embedded systems** and **IoT devices** to **robotics** and **mobile applications**.  
 
+🧩 **Custom RISC-V Operating System (In Progress)**
+**Description:**
+Designing and implementing a Unix-like operating system from scratch for the RISC-V architecture, focusing on kernel-level systems programming, process management, and hardware-software interfacing.
+
+**Key Features:**
+ - Developed a preemptive multitasking kernel with round-robin scheduling and context switching between user and kernel modes.
+ - Implemented a virtual memory subsystem using paging with demand allocation and address translation through the RISC-V Sv32 MMU.
+ - Created a system call interface for user programs supporting I/O, memory allocation, and inter-process communication.
+ - Wrote device drivers for UART serial I/O, real-time clock (RTC), and VirtIO block/network devices using PLIC interrupt handling and memory-mapped I/O.
+ - Designed and integrated a basic file system layer to support persistent storage and hierarchical directory structures.
+ - Debugged and validated kernel execution using GBD Debugger and custom RISC-V assembly test programs.
+
+🛠 **Tech Stack:** RISC-V Assembly, C, QEMU, VirtIO, PLIC, OS Development
+
+---
+
+## 🧠 **Parallel Programming for CNN Acceleration (In Progress)**
+**Description:**
+Developing GPU-accelerated implementations of convolutional neural network (CNN) inference pipelines to explore how low-level CUDA optimization techniques can improve performance in embedded and high-performance computing systems.
+
+**Key Features:**
+ - Implemented parallelized matrix multiplication and 2D convolution kernels using CUDA threads and shared memory for data reuse, minimizing global memory bandwidth bottlenecks.
+ - Explored memory coalescing and bank conflict mitigation techniques to optimize thread-level data access patterns and improve occupancy.
+ - Built a forward-pass implementation of the LeNet-5 CNN architecture, integrating convolution, pooling, and fully connected layers optimized for GPU execution.
+ - Compared GPU vs. CPU latency and throughput across multiple batch sizes, observing >10× speedup for convolutional layers.
+ - Designed a modular pipeline structure to facilitate future integration with embedded AI accelerators or FPGA-based compute platforms.
+ - Profiling and optimization performed using Nsight Systems and CUDA Visual Profiler to identify kernel bottlenecks and fine-tune grid/block configurations.
+
+🛠 **Tech Stack:** C/C++, CUDA, NVIDIA Nsight, Parallel Computing, GPU Optimization
+
 ---
 
 ## 🎮 **FPGA Platformer Game**  
@@ -16,7 +46,6 @@ A **2D platformer game** implemented entirely in hardware on the **Xilinx Urbana
 - Integrated **user input** for responsive controls.  
 
 🛠 **Tech Stack:** `Verilog`, `Xilinx Urbana FPGA`, `HDMI/VGA Output`  
-
 
 ---
 
