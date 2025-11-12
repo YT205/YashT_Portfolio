@@ -10,7 +10,7 @@ Designing and implementing a Unix-like operating system from scratch for the RIS
 
 **Key Features:**
  - Developed a preemptive multitasking kernel with round-robin scheduling and context switching between user and kernel modes.
- - Implemented a virtual memory subsystem using paging with demand allocation and address translation through the RISC-V Sv32 MMU.
+ - Implemented a virtual memory subsystem using paging with demand allocation and address translation through the RISC-V Sv39 MMU.
  - Created a system call interface for user programs supporting I/O, memory allocation, and inter-process communication.
  - Wrote device drivers for UART serial I/O, real-time clock (RTC), and VirtIO block/network devices using PLIC interrupt handling and memory-mapped I/O.
  - Designed and integrated a basic file system layer to support persistent storage and hierarchical directory structures.
